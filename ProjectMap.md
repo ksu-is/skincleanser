@@ -1,5 +1,5 @@
 Sprint 2 requirements:
-[] have started some coding
-[] have already made 6 changes
-[] ask user for an input on skin type
-[] have comments
+[x] have started some coding
+[x] ask user for an input on skin type
+[x] have comments
+[x] have the basics and explaining avaible for consumer
